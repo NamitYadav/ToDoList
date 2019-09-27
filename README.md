@@ -1,2 +1,2 @@
 # ToDoList
-ToDoList built from scratch without CRA
+To-do List built from scratch using React without CRA
